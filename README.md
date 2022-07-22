@@ -1,6 +1,6 @@
 <img width="968" alt="Screen Shot 2022-07-21 at 18 03 24" src="https://user-images.githubusercontent.com/100304104/180314847-76853f08-1b68-41c0-97dc-c8a25b5fd5de.png">
 
-
+</div>
 
 ##
 
@@ -9,6 +9,8 @@
 <div align="center">
   <a href="https://github.com/juniorgambardella">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juniorgambardella&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
+  
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ##
