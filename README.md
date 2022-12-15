@@ -4,7 +4,7 @@
 
 ##
 
-<p align="center">I am a iOS Mobile Developer and Passionate about Technology!</p>
+<p align="center">I am a Mobile Developer and Passionate about Technology!</p>
 
 <div align="center">
   <a href="https://github.com/juniorgambardella">
